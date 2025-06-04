@@ -12,3 +12,12 @@ body{
   background-size: cover;
   height: 600vh;
 }
+
+.continue{
+  font-family: sans-serif;
+  font-size: 25px;
+  margin: 270px auto;
+  width: 900px;
+
+}
+
